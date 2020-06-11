@@ -13,5 +13,7 @@ The quality of the data is much important and it should be under consideration f
 -> Data insights
 -> Data insights and presentations
 
+The KPMG provides us with the three datasets from the Sprocket Central Pty Ltd. These datasets are assessed for its quality, then analyzed and the findings are presented in the form of dashboards.
+
 # Note:
 The work uploaded here is solely done by me and so, do not copy the work with due respect. If you wanna make some changes/improvements to the files uploaded, kindly mention me.
