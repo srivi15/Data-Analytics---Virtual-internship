@@ -9,8 +9,11 @@ Through this internship, I gained knowledge on:
 3. Using Tableau and Power BI to make interactive dashboards and present our insights.
 
 The quality of the data is much important and it should be under consideration first. So, this internship takes us through three modules/tasks which involves:
+
 -> Data Quality Assessment
+
 -> Data insights
+
 -> Data insights and presentations
 
 The KPMG provides us with the three datasets from the Sprocket Central Pty Ltd. These datasets are assessed for its quality, then analyzed and the findings are presented in the form of dashboards.
